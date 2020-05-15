@@ -1,0 +1,7 @@
+12:28:28.032 [main] INFO  java.lang.Class - Setting up the properties of chrome
+12:28:31.912 [main] DEBUG java.lang.Class - opening the Google site
+12:28:34.853 [main] INFO  java.lang.Class - Getting the tiel of the site
+12:28:34.867 [main] INFO  java.lang.Class - Getting the current URL
+12:42:26.968 [main] INFO  java.lang.Class - Setting up the properties of chrome
+12:42:31.373 [main] DEBUG java.lang.Class - opening the Google site
+12:42:35.883 [main] INFO  java.lang.Class - Getting the title of the site

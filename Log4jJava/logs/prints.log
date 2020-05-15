@@ -1,0 +1,7 @@
+12:42:35.894 [main] INFO  java.lang.Class - Getting the current URL
+12:42:36.214 [main] DEBUG java.lang.Class - Navigate to the TUI site
+12:48:15.211 [main] INFO  java.lang.Class - Setting up the properties of chrome
+12:48:18.515 [main] DEBUG java.lang.Class - opening the Google site
+12:48:21.880 [main] INFO  java.lang.Class - Getting the title of the site
+12:48:21.889 [main] INFO  java.lang.Class - Getting the current URL
+12:48:21.897 [main] DEBUG java.lang.Class - Navigate to the TUI site
